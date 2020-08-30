@@ -1,0 +1,22 @@
+.counter {
+  justify-items: center;
+  border: 4px solid gray;
+  width: 150px;
+  margin-left: 550px;
+  padding-left: 50px;
+  padding-bottom: 20px;
+  margin-top: 50px;
+}
+.count {
+  font-size: 30px;
+}
+.butt {
+  display: flex;
+  justify-content: space-around;
+  padding-right: 60px;
+}
+.title {
+  border: 2px dashed red;
+  width: 90px;
+  background-color: teal;
+}
